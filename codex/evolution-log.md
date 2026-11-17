@@ -64,3 +64,30 @@ _Session entries: date · decision · maker response · lesson._
 - **Maker:** "I hate it. I don't want you to get influenced by it."
 - **Done:** deleted its contact sheet, pin data and notes; added the industrial
   loft to Rejects in references.md.
+
+## 2026-11-17 · P-1062 deck rebuilt from zero: FINA. (maker granted full creative authority, this deck only)
+- **Decided:** title FINA. (Arabic for courtyard; allusion, not quotation, thinking.md).
+  Idea in one line: the street gives nothing, so the house makes its own view inside.
+  Principle set CLOSE. CARVE. VEIL. LIGHT. (his deck method: 3-4 word principle set).
+  Roman-numeral chapters I Site / II Principle / III Options / IV Atmosphere, witty
+  epigraph, premise as a question, glossary, ends on a question to the client (voice.md).
+  Plans greyed with a white SATURATION overlay ("cornelius-grey"), all at one shared scale.
+  Unused dusk renders brought in full-bleed, cars cropped out.
+- **Mistake, corrected mid-build:** I made the cover, dividers and summary black pages.
+  Maker: "you know better." I had misapplied the interior palette rule ("warm dark base")
+  to graphic design. His decks are white with generous space.
+- **Lesson:** palette rules for spaces are not palette rules for pages. NEVER dark pages
+  in his decks. Added to aesthetic.md.
+- **Gap:** OP-1-GF.pdf and OP-2 GF.pdf on Z: are the same drawing, so Options B and C show the
+  same ground floor (also true in the old deck). Asked the maker.
+- **Awaiting:** maker verdict on FINA. as title, the principle set, greyscale plans.
+
+## 2026-11-17 · Type and colour: separating him from the firm
+- **Maker:** "normally I don't use red in my text, I only used it here because the firm
+  uses red." Also: "I don't use serif font ever." His current favourite is Helvetica / Helvetica Neue.
+- **What this exposes:** FINA. used Minion italic for epigraphs and captions, and red for
+  letters, periods and tags. Both came from the firm's deck and earlier diagram work, not from
+  him. I had been learning the firm's hand as his.
+- **Rule now in aesthetic.md and portrait.md:** Helvetica only, no serif, no red in his text.
+  Telling him apart from his firm is a priority.
+- **Challenge from maker:** what is wrong with the cover render? (Answer below in session.)

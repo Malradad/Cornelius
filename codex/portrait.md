@@ -39,6 +39,7 @@ Read this first. It is the synthesis; the other codex files hold the evidence.
 - Drawing is the obsession (416 pins). Catalogs and taxonomies.
 
 ## How he presents
+- ✓ Helvetica / Helvetica Neue, never a serif. ✓ No red in his text: red is the firm's.
 - A grotesque sans, bold caps titles ending in a period, Roman-numeral
   chapters, generous white space.
 - Concept deck method: number, witty epigraph, premise, context, principle

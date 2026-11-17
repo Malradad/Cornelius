@@ -38,6 +38,13 @@ Evidence weight (set by the maker, 2026-11-17):
 - Inherited objects are isolated and re-presented as artefacts.
 
 ## Graphic design
-- Grotesque sans; bold caps titles; titles end in a period (CV, portfolio).
+- ✓ **Helvetica / Helvetica Neue only.** His current favourite. Grotesque sans; bold caps titles;
+  titles end in a period (CV, portfolio). (Maker, 2026-11-17)
+- ✓ **Never a serif.** Not for epigraphs, captions or labels. (Maker, 2026-11-17)
+- ✓ **No red in his text.** Red is his firm's (Alareen) colour, not his. Use it only when the
+  firm's branding requires it, and never let it read as his signature. Telling him apart
+  from the firm is a priority. (Maker, 2026-11-17)
 - Concept decks: big project number on the cover, Roman-numeral chapters,
   generous white space, image clusters, small running footer.
+
+- **No dark pages.** Decks are white; the warm-dark palette rule is for interiors, never for page backgrounds. (Maker, 2026-11-17, rejecting black dividers in FINA.)

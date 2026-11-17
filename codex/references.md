@@ -17,7 +17,8 @@
 - Classical statues in modern white rooms.
 - Glass block, glowing grid ceilings, reeded glass.
 - Rammed earth and terracotta desert houses.
-- Editorial design: white and grey with one red accent.
+- Editorial design: white and grey with one red accent. (A motif he collects, but red
+  is his firm's colour; he does not use red in his own text.)
 
 ## Rejects
 - The generic industrial loft (brick, black iron, Edison bulbs). He hates it;
