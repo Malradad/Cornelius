@@ -76,8 +76,8 @@ _Session entries: date · decision · maker response · lesson._
 - **Mistake, corrected mid-build:** I made the cover, dividers and summary black pages.
   Maker: "you know better." I had misapplied the interior palette rule ("warm dark base")
   to graphic design. His decks are white with generous space.
-- **Lesson:** palette rules for spaces are not palette rules for pages. NEVER dark pages
-  in his decks. Added to aesthetic.md.
+- **Lesson:** palette rules for spaces are not palette rules for pages. Black pages only
+  with a specific reason (maker refined this). Added to aesthetic.md.
 - **Gap:** OP-1-GF.pdf and OP-2 GF.pdf on Z: are the same drawing, so Options B and C show the
   same ground floor (also true in the old deck). Asked the maker.
 - **Awaiting:** maker verdict on FINA. as title, the principle set, greyscale plans.
@@ -91,3 +91,13 @@ _Session entries: date · decision · maker response · lesson._
 - **Rule now in aesthetic.md and portrait.md:** Helvetica only, no serif, no red in his text.
   Telling him apart from his firm is a priority.
 - **Challenge from maker:** what is wrong with the cover render? (Answer below in session.)
+
+## 2026-11-17 · The render verdict
+- **My answer:** the cover shows the street face, which contradicts the inward idea, plus a bad crop.
+- **Maker's answer:** simpler and harder. The render is ugly, and it serves nothing next to the
+  sophisticated references he gave me.
+- **What I missed:** I treated "unused asset" as "opportunity" and never judged its quality.
+  I put a generic CG render on the cover and full-bleed twice beside strong references.
+- **Lesson:** taste is also what you leave out. Judge every image against his best references
+  before it goes in. Now in aesthetic.md.
+- **Also refined:** black pages are not banned outright, just rare and only for a specific reason.

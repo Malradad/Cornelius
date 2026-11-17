@@ -47,4 +47,8 @@ Evidence weight (set by the maker, 2026-11-17):
 - Concept decks: big project number on the cover, Roman-numeral chapters,
   generous white space, image clusters, small running footer.
 
-- **No dark pages.** Decks are white; the warm-dark palette rule is for interiors, never for page backgrounds. (Maker, 2026-11-17, rejecting black dividers in FINA.)
+- ✓ **Black pages rarely, and only for a specific reason.** Decks default to white; the warm-dark
+  palette rule is for interiors, not page backgrounds. (Maker, 2026-11-17)
+- ✓ **Image quality is a gate, not a given.** Every image in a deck must stand at the level of his
+  references. A mediocre render next to sophisticated references cheapens all of them. Leave it
+  out rather than use it because it exists. (Maker, 2026-11-17, on the P-1062 renders)
