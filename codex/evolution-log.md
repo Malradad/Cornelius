@@ -19,3 +19,10 @@ _Session entries: date · decision · maker response · lesson._
   codex/voice.md from that, and ban the brochure register.
 - **Pending:** patterns (pairs, psychological briefs, time as material,
   boundary without enclosure) await answers in review/questions.md.
+
+## 2026-11-17 · Solo concept decks (Al-Izdihar, La Rustica)
+- **Read:** both decks; the maker confirms they are entirely his.
+- **Wrote to codex:** aesthetic.md (palette rule, light, collage stage);
+  thinking.md (continuity/transformation, artefact, deck method).
+- **Lesson:** solo work outranks firm and collaborative work as evidence.
+  The boundary/threshold thread holds across thesis, research and client work.

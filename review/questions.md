@@ -48,3 +48,14 @@ or tell Cornelius in chat.
     > 
 12. **Myrtle Hall Private Gallery, 2024–2027.** Is the future end date intentional?
     > 
+
+## About the concept decks
+13. **The glossary.** Is it written for the client, or for yourself? (Either way,
+    it is the start of your own lexicon, and Cornelius wants to adopt it.)
+    > 
+14. **The deck format.** Did you design it for La Rustica (001) and then reuse it?
+    Should Cornelius treat it as your standard concept-deck template?
+    > 
+15. **Al-Izdihar's client.** "Escapists, imagining utopian worlds." Is that the
+    real household, or a character you wrote to drive the design?
+    > 

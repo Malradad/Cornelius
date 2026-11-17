@@ -41,3 +41,19 @@ Not urgent. Tick items off as they're done.
 - [ ] Voice: generic luxury copy. In ~20 pages: "luxurious" ×14, "immersive" ×11,
       "sophisticated" ×8, "harmonious" ×8, "meticulously" ×7, "seamless(ly)" ×9.
       Rewrite in his own voice.
+
+## Concept deck — Al-Izdihar Villa (003)
+- [ ] Missing spaces: "decoration.Allusion", "transition.The", "experience,one"
+- [ ] Missing period: "…one continuous visual story From this approach"
+- [ ] Summary: broken hyphen "AlIzdihar" → "Al-Izdihar"
+- [ ] "Italian mid-century and modernism design" → "Italian mid-century modernism"
+- [ ] Glossary: 70+ terms, many generic (Limestone, Grain, Contemporary). Keep the terms you coin or reclaim.
+
+## Concept deck — La Rustica (001)
+- [ ] Running header truncated on every page: "CONCEPT & SCHEMATICS FOR LA RUSTICA PIZZE-"
+- [ ] File name: "CONECEPT" → "CONCEPT"
+- [ ] Missing period: "…resonate more strongly with a younger audience This narrative…"
+- [ ] Stray hyphen: "Wood intro- duces"
+- [ ] Check text wrapping on the Materials collage page and the Furniture page;
+      the text may read in scrambled order around the images
+- [ ] Word tics: "warmth" ×35, "atmosphere" ×32, "layered" ×31. Cut by half.
