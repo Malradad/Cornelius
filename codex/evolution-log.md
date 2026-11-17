@@ -39,3 +39,9 @@ _Session entries: date · decision · maker response · lesson._
   research AND academic work.
 - **Codex now:** tier 1 = research + academic + solo decks (equal);
   tier 2 = firm work (craft only, never voice or taste).
+
+## 2026-11-17 · Research handoffs (SILK / Black Hole / Topology)
+- **Read:** three ChatGPT research handoffs.
+- **Wrote to codex:** research thesis in thinking.md.
+- **Proposed:** threshold as encoded unit; Al-Izdihar as first experiment;
+  one project name. Awaiting maker response.

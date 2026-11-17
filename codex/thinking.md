@@ -26,6 +26,15 @@ Content → I Context → II Proposal abstract (a 3–4 word principle set) →
 III User or Origin → Design narrative (Aesthetics, Materials, Lighting,
 Furniture, Sketches) → Summary → Glossary → Copyright.
 
+## Research thesis (from his research handoffs, 2026)
+- Architecture as relationships, not geometry: a lower-dimensional boundary
+  can encode a higher-dimensional space; identity is informational, not visual.
+- His line: "visuality is merely a consequence of informational flow, the
+  product in which we enjoy."
+- Paradox to keep alive: an image-maker who argues the image is a byproduct.
+- He rejects "architectural romanticism and fetishized computation", and
+  separates fact, analogy and conjecture. Hold him to this.
+
 ## Open
 - What are the questions he keeps returning to?
 - How does a question become an image? Is drawing the first move or the proof?
