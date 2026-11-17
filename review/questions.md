@@ -1,0 +1,50 @@
+# Questions for Meshal
+
+Answer one at a time, in any order. Write your answer under the question,
+or tell Cornelius in chat.
+
+## About you
+1. **Your radical questions.** What are the two or three questions you keep
+   coming back to? Rough wording is fine.
+   > 
+2. **Surfaces and boundaries.** Cornelius's reading: the boundary is where
+   information and memory live, and where you intervene (Imaginary Variance,
+   Input/Output Correspondence, Topological Design Systems). Is that close to
+   how you would say it? How would you put it?
+   > 
+3. **Two scales of the hand.** Palace millwork and Lissoni restraint on one side;
+   welding, robotic arms, sewing and bookbinding on the other. Where does
+   fashion sit for you?
+   > 
+4. **Two places.** New York and Riyadh, English and Arabic. How does each shape
+   the way you see and design?
+   > 
+5. **Pairs.** Palindrome, Binary Library, Input/Output, existing vs. graft,
+   East vs. West tower. Is thinking in doubles and reversals conscious?
+   > 
+
+## About the work
+6. **Collaboration.** Imaginary Variance, Deconstruction Underway and XATA were
+   made with Halie Kim (XATA also with Elizabeth Bobyr). Which drawings, moves
+   and words are yours?
+   > 
+7. **The luxury tension.** Imaginary Variance critiques privatized luxury
+   hospitality (the Roxy), and your practice is palaces and luxury hospitality.
+   How do you hold that?
+   > 
+8. **The cover.** The sphere is the solar orb from Unwinding Reveries. What are
+   the pointed arches? What do 12 and 15 refer to?
+   > 
+9. **Deconstruction Underway.** Greyscale and quieter than the rest. A deliberate
+   register, or a different hand?
+   > 
+10. **Professional renders.** In EB2, which renders, drawings and boards did you
+    make yourself?
+    > 
+
+## Practical
+11. **"EB2".** Does it refer to an EB-2 immigration petition? If so, the authorship
+    and dating fixes become a priority.
+    > 
+12. **Myrtle Hall Private Gallery, 2024–2027.** Is the future end date intentional?
+    > 
