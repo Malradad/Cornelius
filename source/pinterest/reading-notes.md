@@ -11,7 +11,6 @@ The other 25 are unseen (secret, or not loaded). Contact sheets are in sheets/.
 | Rustic restaurant interior | 76 | 25 | La Rustica: Italian storefronts, worn plaster, red accents, rugs, carved timber, glowing fabric. |
 | A Housing | 72 | 25 | Regional residential identity: arches, monumental frames opening onto landscape, a surreal arch in the desert (used in the La Rustica deck), Spanish baroque and Omani facades, Brutalist cliff houses. |
 | Israha (owner: najlaraddadi) | 45 | 25 | **Client board** (Najla, La Rustica). Earthy, AI-rendered Saudi lounges. Client taste, NOT the maker's. Exclude from aesthetic inference. |
-| Industrial | 37 | 25 | Brick-and-iron lofts. Reads as older, more generic taste. Low weight. |
 | Portfolio | 25 | 24 | Editorial and book design: white and grey, one red accent, classical bust, wabi-sabi, "Zeitlos". Matches his graphic restraint. |
 | studio | 8 | 8 | His ideal workroom: a round window over a desk, a cabinet of curiosities, classical statues in a white room (Canova), a red toile library. |
 | Desert | 6 | 6 | Rammed earth and terracotta houses, a light slot cut into a wall, palms. Desert modernism. |
@@ -32,4 +31,4 @@ The other 25 are unseen (secret, or not loaded). Contact sheets are in sheets/.
 
 ## Evidence notes
 - Israha belongs to the client; never read it as his taste.
-- Industrial looks like older taste; check with the maker before using it.
+- Industrial board: deleted at the maker's request. He hates it. Never use it.

@@ -20,5 +20,7 @@
 - Editorial design: white and grey with one red accent.
 
 ## Rejects
+- The generic industrial loft (brick, black iron, Edison bulbs). He hates it;
+  the board was deleted from his sources. Never propose it.
 - Generic luxury-brochure language (confirmed).
 - "Architectural romanticism and fetishized computation" (his research notes).

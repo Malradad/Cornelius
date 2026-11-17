@@ -59,3 +59,8 @@ _Session entries: date · decision · maker response · lesson._
 - **Seen:** 10 of 35 boards, ~25 latest pins each. 25 boards unseen.
 - **Wrote:** source/pinterest/reading-notes.md; codex/references.md.
 - **Guardrail:** Israha is the client's board; exclude it from taste inference.
+
+## 2026-11-17 · Industrial board removed
+- **Maker:** "I hate it. I don't want you to get influenced by it."
+- **Done:** deleted its contact sheet, pin data and notes; added the industrial
+  loft to Rejects in references.md.
