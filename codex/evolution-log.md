@@ -26,3 +26,9 @@ _Session entries: date · decision · maker response · lesson._
   thinking.md (continuity/transformation, artefact, deck method).
 - **Lesson:** solo work outranks firm and collaborative work as evidence.
   The boundary/threshold thread holds across thesis, research and client work.
+
+## 2026-11-17 · Correction: evidence hierarchy
+- **Mistake:** I ranked the solo concept decks above the research work.
+- **Maker correction:** the research work is entirely his too. Research and
+  concept decks are equal, at the top tier. Academic work is next; firm work is last.
+- **Lesson:** don't infer authorship weight from credit lines; ask the maker.

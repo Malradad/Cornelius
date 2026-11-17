@@ -24,9 +24,9 @@ or tell Cornelius in chat.
    > 
 
 ## About the work
-6. **Collaboration.** Imaginary Variance, Deconstruction Underway and XATA were
-   made with Halie Kim (XATA also with Elizabeth Bobyr). Which drawings, moves
-   and words are yours?
+6. **Collaboration credits.** You've confirmed the research work is entirely yours.
+   The portfolio pages still read "In Collaboration with Halie Kim" (and Elizabeth
+   Bobyr on XATA). Do you want to keep, reword or remove that credit line?
    > 
 7. **The luxury tension.** Imaginary Variance critiques privatized luxury
    hospitality (the Roxy), and your practice is palaces and luxury hospitality.

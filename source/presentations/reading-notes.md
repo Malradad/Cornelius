@@ -2,7 +2,7 @@
 
 Sources: 003 Al-Izdihar Villa Concept Design (24 pp, A3);
 001 La Rustica Concept & Schematics 50% (26 pp, A3).
-Status: maker confirms both are entirely his. Highest-weight evidence in the codex.
+Status: maker confirms both are entirely his. Top-tier evidence, equal to the research work.
 
 ## His deck system (identical in both)
 1. Cover: big project number (001, 003) + "CONCEPT DESIGN".

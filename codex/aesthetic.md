@@ -1,6 +1,11 @@
 # Aesthetic
 
-Evidence weight: solo work (concept decks 2026) > research (thesis etc.) > firm work.
+Evidence weight (set by the maker, 2026-11-17):
+1. **His own work, at equal weight:** research work (Input/Output Correspondence,
+   The Imaginary Variance, XATA, Deconstruction Underway) and the solo concept
+   decks (Al-Izdihar, La Rustica).
+2. Academic studio work (2019–2021).
+3. Firm work (EB2 / Lissoni). It reflects the firm's voice, not his.
 
 ## Drawing and image-making
 - **Grey given, colored graft.** The existing condition is drawn as a grey line
