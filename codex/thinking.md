@@ -26,6 +26,18 @@ Content → I Context → II Proposal abstract (a 3–4 word principle set) →
 III User or Origin → Design narrative (Aesthetics, Materials, Lighting,
 Furniture, Sketches) → Summary → Glossary → Copyright.
 
+## How his mind moves (from the research handoffs)
+- **Reaches for the hardest frame.** Black holes, algebraic topology, quantum
+  error correction. He takes ideas from the far edge of other fields and asks
+  what they mean for space.
+- **Speculates, then disciplines himself.** He wants wild ideas held to rigor:
+  facts, analogies and conjectures kept apart. Ambition and self-skepticism at once.
+- **Thinks in dimensions.** 2D ↔ 3D, boundary ↔ volume, appearance ↔ information.
+  This is the same pair-thinking, at the level of ideas.
+- **Distrusts the visible.** "Visuality is merely a consequence of informational
+  flow." What looks the same may not be the same; what matters may be unseen.
+- **Uses AI as a sparring partner** to stress-test ideas, not to produce them.
+
 ## Research thesis (from his research handoffs, 2026)
 - Architecture as relationships, not geometry: a lower-dimensional boundary
   can encode a higher-dimensional space; identity is informational, not visual.
