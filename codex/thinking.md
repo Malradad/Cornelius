@@ -38,6 +38,20 @@ Furniture, Sketches) → Summary → Glossary → Copyright.
   flow." What looks the same may not be the same; what matters may be unseen.
 - **Uses AI as a sparring partner** to stress-test ideas, not to produce them.
 
+## Design intelligence (grad-school writings, 2024–26)
+- "Architecture should encode intelligence before it computes it." Computation
+  executes and propagates intelligence; it must not be mistaken for it.
+- Goal: encode a designer's hidden structure (hierarchies, dependencies, embedded
+  expression) into relational systems without flattening the sensibility, so that
+  "the intelligence of a designer becomes transmissible."
+- Problem-setting over problem-solving (Donald Schön): redefine the problem first.
+- His method, in his words: see "the distance between how a system represents
+  reality and what reality actually is."
+- Open tension: architectural autonomy ("geometrical first") vs "architecture is
+  rarely autonomous." Unresolved; don't resolve it for him.
+- Practice wasn't idle: at Lissoni he built relational Grasshopper/Python systems
+  for millwork, lighting and material.
+
 ## Research thesis (from his research handoffs, 2026)
 - Architecture as relationships, not geometry: a lower-dimensional boundary
   can encode a higher-dimensional space; identity is informational, not visual.

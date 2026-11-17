@@ -101,3 +101,13 @@ _Session entries: date · decision · maker response · lesson._
 - **Lesson:** taste is also what you leave out. Judge every image against his best references
   before it goes in. Now in aesthetic.md.
 - **Also refined:** black pages are not banned outright, just rare and only for a specific reason.
+
+## 2026-11-17 · Grad school writings
+- **Read:** MIT, Media Lab, Harvard MDE/GSD statements; private topology notes;
+  a raw draft with self-critique.
+- **Wrote:** source/writings/reading-notes.md; voice.md (private register);
+  thinking.md (design intelligence); portrait.md (his own words).
+- **Privacy:** left personal identity details out of the codex. Kept the raw
+  draft PDF out of the repo until he says otherwise.
+- **Noticed:** Cornelius itself is his thesis in practice: a designer's sensibility
+  encoded as a relational system, so that it becomes transmissible.

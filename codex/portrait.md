@@ -45,8 +45,12 @@ Read this first. It is the synthesis; the other codex files hold the evidence.
 - Concept deck method: number, witty epigraph, premise, context, principle
   set, narrative, summary, glossary.
 
+## In his own words
+- "I'm not curious, I'm epistemically compulsed." "I would rather be legible than liked."
+- "Architecture should encode intelligence before it computes it."
+
 ## What he rejects
-- ✓ Brochure language. ✓ The industrial loft. ✓ Romanticism and fetishized computation.
+- ✓ Brochure language, and its cousin the grad-application voice. ✓ Parametric spectacle as fake intelligence. ✓ The industrial loft. ✓ Romanticism and fetishized computation.
 
 ## Where to push him
 - ~ Words lag images: cut repetition, end on the question, use his wit.
