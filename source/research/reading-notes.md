@@ -4,6 +4,10 @@ Sources: Black Hole Information Encoding (agent handoff); Architectural Topology
 Research Handoff (2026-11-17); SILK Research Overview. Maker: "very theoretical,
 rough and out there". Tier 1 evidence: his thinking.
 
+**Purpose (maker, 2026-11-17): context only, to show how he thinks. No research
+work wanted on these now. The proposals below are PARKED; do not raise them
+unless he asks.**
+
 ## The core claim, in his own terms
 Architecture can be stored as relationships rather than geometry. A
 lower-dimensional boundary can encode a higher-dimensional space. Identity is
@@ -43,7 +47,7 @@ informational, not visual.
   is about experience (psychological briefs, atmosphere, thresholds). That gap
   is his to fill.
 
-## Cornelius's proposal
+## Cornelius's proposal (PARKED)
 1. **The threshold as the encoded unit.** The open question "bit, relation,
    invariant?" → the threshold: a labeled edge (opacity, compression, light,
    material, reveal/conceal). It joins the math (edges, boundary operators) to

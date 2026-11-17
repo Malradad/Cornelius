@@ -45,3 +45,10 @@ _Session entries: date · decision · maker response · lesson._
 - **Wrote to codex:** research thesis in thinking.md.
 - **Proposed:** threshold as encoded unit; Al-Izdihar as first experiment;
   one project name. Awaiting maker response.
+
+## 2026-11-17 · Research handoffs: context only
+- **Maker:** shared to show how he thinks; wants nothing done with them now.
+- **Done:** withdrew the research questions from review/questions.md; marked
+  the proposals PARKED. Kept the thinking insights in codex/thinking.md.
+- **Lesson:** not every upload is a brief. When material arrives, ask whether
+  it is for learning or for action before proposing work.

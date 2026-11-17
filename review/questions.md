@@ -61,13 +61,3 @@ or tell Cornelius in chat.
     real household, or a character you wrote to drive the design?
     > 
 
-## About the research
-16. **One name.** Black Hole Information Encoding, SILK, Topological Design Systems,
-    Architectural Topology, Braided Realities. Which one is the project? Which are chapters?
-    > 
-17. **The threshold as the unit.** Would you test the threshold, a labeled relation
-    between spaces, as the basic encoded unit?
-    > 
-18. **Al-Izdihar as the first experiment.** Can its existing plan be used for research
-    (anonymized if needed)?
-    > 
