@@ -2,9 +2,8 @@
 
 Sources: statements.pdf (MIT personal statement + SMArchS and Media Lab research
 statements, v1/v2), smarchs.pdf, mde.pdf (Harvard MDE short answers + statements),
-topological-design-research.pdf (private notes, Nov–Dec 2025), and an 8-page draft of
-graduate statements with raw internal notes (kept out of the repo pending the maker's
-OK; it contains personal material).
+topological-design-research.pdf (private notes, Nov–Dec 2025), and
+graduate-statements.pdf (an 8-page draft with raw internal notes and self-critique).
 Purpose (maker): "a deeper sense" of how he thinks. Context, not a brief.
 
 ## Two voices, again
@@ -52,3 +51,19 @@ Purpose (maker): "a deeper sense" of how he thinks. Context, not a brief.
   "idiotic surface gestures"; "a newer romanticism of aesthetics"; topology reduced to
   Gehry/Zaha surfaces; computation as spectacle "in a different register".
 - Identity performance and "adversity branding" in place of an actual idea.
+
+## The raw draft: who he is underneath
+- **Friction as engine.** "Interior pressure… friction… obsession, dissatisfaction,
+  humiliation, and relentless self-critique." Growing up gay in Saudi Arabia was one
+  of those frictions. He refuses to make it the story ("theatrical", "adversity
+  branding"); he wants to be read by his ideas.
+- **His resolution (his own notes):** not "context didn't shape me", but "these were
+  the conditions I was handed, and here is what I chose to do inside them." Agency,
+  not victimhood. Context gave him a method, not a perspective.
+- **Truth over comfort.** "The question is no longer should this be known, but can
+  this be known." He would rather create something with grave implications than
+  live not knowing. He names the risk himself (god complex, narcissism) and refuses
+  to sanitize it.
+- **Allergic to performance,** including the performance of honesty.
+- **His own verdict on that draft:** liability, no external anchoring, no payload;
+  ground it in one concrete intellectual moment.

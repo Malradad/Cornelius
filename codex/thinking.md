@@ -38,6 +38,17 @@ Furniture, Sketches) → Summary → Glossary → Copyright.
   flow." What looks the same may not be the same; what matters may be unseen.
 - **Uses AI as a sparring partner** to stress-test ideas, not to produce them.
 
+## The engine (raw grad-school draft, 2025–26)
+- Driven by interior friction and relentless self-critique, not by good intentions:
+  "I'm not curious, I'm epistemically compulsed."
+- Conditions handed to him, his response chosen: agency, not victimhood. He refuses
+  identity performance or adversity as the story; judge and present him by his ideas.
+- Truth over comfort: "not should this be known, but can this be known."
+- Allergic to performance, including performed honesty. Honest critique is what he
+  wants from Cornelius, not reassurance.
+- Personal background stays private (see source/writings notes). Never use it in
+  client-facing work or as a narrative device.
+
 ## Design intelligence (grad-school writings, 2024–26)
 - "Architecture should encode intelligence before it computes it." Computation
   executes and propagates intelligence; it must not be mistaken for it.

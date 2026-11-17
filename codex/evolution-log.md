@@ -111,3 +111,13 @@ _Session entries: date · decision · maker response · lesson._
   draft PDF out of the repo until he says otherwise.
 - **Noticed:** Cornelius itself is his thesis in practice: a designer's sensibility
   encoded as a relational system, so that it becomes transmissible.
+
+## 2026-11-17 · Raw draft added
+- **Mistake:** I held the raw draft back as "personal". Maker: "I wanted to learn
+  from it, so it should be in your codex."
+- **Done:** added graduate-statements.pdf to source/writings; recorded the engine
+  (friction, agency, truth over comfort) in thinking.md and portrait.md.
+- **Guardrail kept:** personal background lives in the source notes, not in
+  client-facing reviews. Never a narrative device.
+- **Lesson:** when he shares something to teach me, learn from it. Ask about
+  where it shows up, not whether to keep it.

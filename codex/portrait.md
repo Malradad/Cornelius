@@ -45,6 +45,10 @@ Read this first. It is the synthesis; the other codex files hold the evidence.
 - Concept deck method: number, witty epigraph, premise, context, principle
   set, narrative, summary, glossary.
 
+## Underneath
+- ✓ Driven by friction and self-critique; agency over victimhood; truth over comfort.
+  He wants to be read by his ideas, never by identity performance.
+
 ## In his own words
 - "I'm not curious, I'm epistemically compulsed." "I would rather be legible than liked."
 - "Architecture should encode intelligence before it computes it."
