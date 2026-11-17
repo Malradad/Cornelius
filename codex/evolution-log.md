@@ -32,3 +32,10 @@ _Session entries: date · decision · maker response · lesson._
 - **Maker correction:** the research work is entirely his too. Research and
   concept decks are equal, at the top tier. Academic work is next; firm work is last.
 - **Lesson:** don't infer authorship weight from credit lines; ask the maker.
+
+## 2026-11-17 · Hierarchy, final
+- **Maker:** collaborators Halie Kim and Elizabeth Bobyr share his mentality.
+  Everything in the portfolio before the professional section is his:
+  research AND academic work.
+- **Codex now:** tier 1 = research + academic + solo decks (equal);
+  tier 2 = firm work (craft only, never voice or taste).

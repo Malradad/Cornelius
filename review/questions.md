@@ -27,7 +27,8 @@ or tell Cornelius in chat.
 6. **Collaboration credits.** You've confirmed the research work is entirely yours.
    The portfolio pages still read "In Collaboration with Halie Kim" (and Elizabeth
    Bobyr on XATA). Do you want to keep, reword or remove that credit line?
-   > 
+   > **Answered (2026-11-17):** keep the credits. Halie and Elizabeth share the
+   > exact same mentality; the work fully represents him.
 7. **The luxury tension.** Imaginary Variance critiques privatized luxury
    hospitality (the Roxy), and your practice is palaces and luxury hospitality.
    How do you hold that?

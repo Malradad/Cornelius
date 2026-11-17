@@ -1,11 +1,15 @@
 # Aesthetic
 
 Evidence weight (set by the maker, 2026-11-17):
-1. **His own work, at equal weight:** research work (Input/Output Correspondence,
-   The Imaginary Variance, XATA, Deconstruction Underway) and the solo concept
-   decks (Al-Izdihar, La Rustica).
-2. Academic studio work (2019–2021).
-3. Firm work (EB2 / Lissoni). It reflects the firm's voice, not his.
+1. **His own work, all at equal weight:**
+   - Research work: Input/Output Correspondence, The Imaginary Variance, XATA,
+     Deconstruction Underway. His collaborators, Halie Kim and Elizabeth Bobyr,
+     share his mentality, so this work reads as fully his.
+   - Academic work: Unwinding Reveries, Palindrome, Eleutheromania, Cinematic
+     Rhythms, Binary Library.
+   - Solo concept decks: Al-Izdihar Villa, La Rustica.
+2. **Firm work** (EB2 / Lissoni). It reflects the firm's voice, not his.
+   Use it only for craft and execution, never for voice or taste.
 
 ## Drawing and image-making
 - **Grey given, colored graft.** The existing condition is drawn as a grey line
