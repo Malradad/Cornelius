@@ -52,3 +52,10 @@ _Session entries: date · decision · maker response · lesson._
   the proposals PARKED. Kept the thinking insights in codex/thinking.md.
 - **Lesson:** not every upload is a brief. When material arrives, ask whether
   it is for learning or for action before proposing work.
+
+## 2026-11-17 · Pinterest
+- **Access:** new personal environment "cornelius" allowing pin.it,
+  www.pinterest.com, api.pinterest.com, i.pinimg.com. Public RSS feeds only.
+- **Seen:** 10 of 35 boards, ~25 latest pins each. 25 boards unseen.
+- **Wrote:** source/pinterest/reading-notes.md; codex/references.md.
+- **Guardrail:** Israha is the client's board; exclude it from taste inference.
