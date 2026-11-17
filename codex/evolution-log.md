@@ -121,3 +121,10 @@ _Session entries: date · decision · maker response · lesson._
   client-facing reviews. Never a narrative device.
 - **Lesson:** when he shares something to teach me, learn from it. Ask about
   where it shows up, not whether to keep it.
+
+## 2026-11-17 · Privacy judgment confirmed
+- **Call:** keep his personal background in the source notes only; in the codex,
+  a rule that it never appears in client-facing work or as a narrative device.
+- **Maker:** "That judgment call was perfect."
+- **Lesson:** discretion about his private life is part of representing him.
+  First confirmed independent call → evidence toward heart.md (judgment / discretion).
